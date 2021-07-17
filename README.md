@@ -97,7 +97,7 @@ __Legal notice__: If you have seen proprietary Microsoft Windows source code (in
 
 Try out cloud-based ReactOS development using Gitpod and Docker:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/reactos/reactos)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/piano1029/reactos)
 
 You can also support ReactOS by [donating](https://reactos.org/donate/)! We rely on our backers to maintain our servers and accelerate development by [hiring full-time devs](https://reactos.org/contributing/#paid-jobs).
 
